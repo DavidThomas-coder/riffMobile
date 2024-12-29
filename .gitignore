@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+*.env
+yarn-error.log
+
+# React Native
+ios/
+android/
+*.log
+.expo/
